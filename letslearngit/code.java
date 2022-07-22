@@ -6,5 +6,6 @@ public class sum{
     }
     public void add(){
         int c = a+b;
+	
     }
 }
